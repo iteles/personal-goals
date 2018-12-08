@@ -16,9 +16,13 @@ MVP:
 | Date | Meal | Food  | Resource  | New? | Thoughts   |
 |---|---|---|---|---|---|
 | - | - | - | - | - | - |
-| Saturday 8-Dec | Lunch  | Cauliflower/lentil curry  | https://www.pickuplimes.com/single-post/2018/11/02/Roasted-Cauliflower-Lentil-Curry  | New   | |
-| Friday 7-Dec | Lunch | Quinoa, peas, tomatoes, sweetcorn salad + pan-seared shrimp  | N/A  | New  | |
-| Thursday 6-Dec | Lunch  | Ikea meatballs & Salad  | N/A  | Old   | |
+| Tuesday 10-Dec | Lunch  | Piccolino  | N/A  | N/A   | Have to be on construction site most of the day |
+| Monday 10-Dec | Lunch  | Aubergine cashew rolls  |   | New   | Trial with pre-made frozen & defrosted filling |
+| Sunday 9-Dec | Lunch  | Butternut squash/lentil curry  | Carol Correia  | Old   | Need to use up ingredients |
+| - | - | - | - | - | - |
+| Saturday 8-Dec | Lunch  | Cauliflower/lentil curry  | https://www.pickuplimes.com/single-post/2018/11/02/Roasted-Cauliflower-Lentil-Curry  | New   | Café da Ponte as we went to opo.js on Friday night and I don't waste mornings cooking|
+| Friday 7-Dec | Lunch | Quinoa, peas, tomatoes, sweetcorn salad + pan-seared shrimp  | N/A  | New  | Turns out we had leftover tuna sauce in the fridge so made a pasta bake instead|
+| Thursday 6-Dec | Lunch  | Ikea meatballs & Salad  | N/A  | Old   | Had lunch at a restaurant as were on the construction site|
 | Wednesday 5-Dec | Lunch  | TBC, we'll be on the move  | N/A | N/A |   |
 | For the week | Snack | Fajita strips | Old | | |
 | For the week  | Snack   | Roasted chestnuts! Test cold as a future snack  | https://www.curejoy.com/content/health-benefits-of-water-chestnuts/  | New | Soak in salt water for 15mins, 25 mins in oven |
