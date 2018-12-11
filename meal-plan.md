@@ -16,7 +16,7 @@ MVP:
 | Date | Meal | Food  | Resource  | New? | Thoughts   |
 |---|---|---|---|---|---|
 | - | - | - | - | - | - |
-| Tuesday 10-Dec | Lunch  | Piccolino  | N/A  | N/A   | Have to be on construction site most of the day |
+| Tuesday 11-Dec to Friday 14-Dec | All | Empty out the freezer  | N/A  | N/A | |
 | Monday 10-Dec | Lunch  | Aubergine cashew rolls  |   | New   | Trial with pre-made frozen & defrosted filling |
 | Sunday 9-Dec | Lunch  | Butternut squash/lentil curry  | Carol Correia  | Old   | Need to use up ingredients |
 | - | - | - | - | - | - |
